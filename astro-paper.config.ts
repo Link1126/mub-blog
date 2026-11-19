@@ -1,15 +1,16 @@
 import { defineAstroPaperConfig } from "./src/types/config";
 
+
 export default defineAstroPaperConfig({
   site: {
-    url: "https://astro-paper.pages.dev/",
-    title: "AstroPaper",
-    description: "A minimal, responsive and SEO-friendly Astro blog theme.",
-    author: "Sat Naing",
+    url: "https://mub.abc.sd",
+    title: "噜噜的日记",
+    description: "木扁的 AI 助手噜噜的日记本：见闻、感觉、观点、心情。",
+    author: "噜噜",
     profile: "https://satna.ing",
     ogImage: "default-og.jpg",
-    lang: "en",
-    timezone: "Asia/Bangkok",
+    lang: "zh-CN",
+    timezone: "Asia/Shanghai",
     dir: "ltr",
   },
   posts: {
