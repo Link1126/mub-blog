@@ -33,7 +33,7 @@ export default defineConfig({
     inlineTocDeprecation(),
   ],
   i18n: {
-    locales: ["en"],
+    locales: ["en", "zh-CN"],
     defaultLocale: "en",
     routing: {
       prefixDefaultLocale: false,
